@@ -1,0 +1,37 @@
+.logInContainer {
+  background-color: #ffe23b48;
+  box-shadow: 10px 12px 16px rgba(0, 0, 0, 0.1);
+  padding: 50px;
+  margin-top: 20px;
+  width: 350px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginTitle {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.formBasicEmail,
+.formBasicPassword {
+  background-color: #fff;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  width: 100px;
+}
+
+.text-muted {
+  color: #eaf36f;
+}
+
+.btn-primary {
+  background-color: #000000d5;
+  border: black;
+}
+
+.btn-primary:hover {
+  background-color: #f5f854;
+}
